@@ -13,10 +13,10 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 ## My Favorite Projects! 🎬
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=arknights-scraper&theme=tokyonight"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=tokyonight"/>
   </a>
   <a href="https://github.com/qiaoandrew/InventoryWidget">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=contest-programming&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=tokyonight"/>
   </a>
 </p>
 
