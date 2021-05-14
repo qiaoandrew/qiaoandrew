@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# Welcome to my Profile! 👋
 
 Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS 🏫! My biggest passion has always been Computer Science 👨‍💻, and I'm constantly searching for new methods to expand my knowledge and to meet interesting people! My goal is to create technologies to aid and inspire other individuals within my communities, while at the same time, making sure I, and the people around me, have fun 😄!
 
