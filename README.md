@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋
+# Welcome! 👋
 
 <p>
   <a href="https://github.com/qiaoandrew">
