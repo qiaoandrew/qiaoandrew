@@ -35,7 +35,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
 
 <sub>
-  These widgets were created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for your awesome work!
+  These widgets were created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for your awesome work! <br>
 </sub>
 
 <sub>
