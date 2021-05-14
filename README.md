@@ -10,7 +10,13 @@ Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS �
 
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. In the future, I am also planning to introduce some Flutter projects!
 
-## My Favorite Projects! 🎬
+## My Current Focuses! 😄
+- Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
+- Studying Unity to create some fun games 🎮!
+- Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
+- Doing my absolute best at school and wherever I go 👍!
+
+## Cool Favorite Projects! 🎬
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=tokyonight"/>
@@ -19,12 +25,6 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=tokyonight"/>
   </a>
 </p>
-
-## My Current Focuses! 😄
-- Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
-- Studying Unity to create some fun games 🎮!
-- Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
-- Doing my absolute best at school and wherever I go 👍!
 
 ## Fun Facts About Me! 🏆
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
