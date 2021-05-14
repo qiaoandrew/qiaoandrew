@@ -16,7 +16,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
 - Doing my absolute best at school and wherever I go 👍!
 
-## 🎬 Cool Favorite Projects!
+## 🎬 Cool Projects!
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=radical"/>
