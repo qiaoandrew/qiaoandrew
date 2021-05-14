@@ -4,6 +4,12 @@ Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS �
 
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. In the future, I am also planning to introduce some Flutter projects!
 
+<p>
+  <a href="https://github.com/qiaoandrew">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=nightowl"/>
+  </a>
+</p>
+
 ## My Current Focuses! 😄
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
 - Studying Unity to create some fun games 🎮!
@@ -16,4 +22,4 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoandrew&show_icons=true&theme=tokyonight) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew)](https://github.com/qiaoandrew/github-readme-stats)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoandrew&show_icons=true&theme=tokyonight) 
