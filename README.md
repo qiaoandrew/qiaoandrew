@@ -10,13 +10,13 @@ Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS �
 
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. In the future, I am also planning to introduce some Flutter projects!
 
-## My Current Focuses! 😄
+## 😄 My Current Focuses!
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
 - Studying Unity to create some fun games 🎮!
 - Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
 - Doing my absolute best at school and wherever I go 👍!
 
-## Cool Favorite Projects! 🎬
+## 🎬 Cool Favorite Projects!
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=radical"/>
@@ -26,8 +26,12 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
   </a>
 </p>
 
-## Fun Facts About Me! 🏆
+## 🏆 Fun Facts About Me!
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
 - Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
+
+## 🔧 My Technologies and Tools! 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
