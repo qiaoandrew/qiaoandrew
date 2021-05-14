@@ -6,7 +6,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 
 <p>
   <a href="https://github.com/qiaoandrew">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=nightowl"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=nightowl"/>
   </a>
 </p>
 
