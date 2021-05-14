@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/qiaoandrew">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&titlecolor=#6b2b43"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&text_color=#6b2b43"/>
   </a>
 </p>
 
