@@ -31,5 +31,3 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaoandrew&show_icons=true&theme=tokyonight) 
