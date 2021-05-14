@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/qiaoandrew">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=darkula"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=cobalt"/>
   </a>
 </p>
 
@@ -19,10 +19,10 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 ## Cool Favorite Projects! 🎬
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=darkula"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=cobalt"/>
   </a>
   <a href="https://github.com/qiaoandrew/InventoryWidget">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=darkula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=cobalt"/>
   </a>
 </p>
 
