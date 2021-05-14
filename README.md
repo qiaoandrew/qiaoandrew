@@ -33,5 +33,5 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
 
 ## 🔧 My Technologies and Tools! 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Windows & macOS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
