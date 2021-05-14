@@ -2,13 +2,23 @@
 
 <p>
   <a href="https://github.com/qiaoandrew">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=nightowl"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoandrew&theme=tokyonight"/>
   </a>
 </p>
 
 Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS 🏫! My biggest passion has always been Computer Science 👨‍💻, and I'm constantly searching for new methods to expand my knowledge and to meet interesting people! My goal is to create technologies to aid and inspire other individuals within my communities, while at the same time, making sure I, and the people around me, have fun 😄!
 
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. In the future, I am also planning to introduce some Flutter projects!
+
+## My Favorite Projects! 🎬
+<p>
+  <a href="https://github.com/qiaoandrew/TheFourKingdoms">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=arknights-scraper&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/qiaoandrew/InventoryWidget">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=contest-programming&theme=tokyonight"/>
+  </a>
+</p>
 
 ## My Current Focuses! 😄
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
