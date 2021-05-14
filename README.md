@@ -9,3 +9,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Studying Unity to create some fun games 🎮!
 - Finding new leadership opportunities to help inspire fellow students 🧑‍🎓!
 - Trying my best at school and wherever I go 👍!
+
+## Fun Facts About Me! 🏆
+- In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
+- I LOVE listening to music 🎧 and watching TV shows 📺!
