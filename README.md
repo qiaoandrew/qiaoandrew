@@ -14,4 +14,4 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
 - Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
-- Currently, my favorite song is "Life Goes On" by BTS 🎵, a song about staying positive during tough situations!
+- Currently, my favorite song is "Life Goes On" by BTS 🎵, a song about overcoming and staying positive during tough situations!
