@@ -43,5 +43,5 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 
 <sub>
   These widgets were created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for your awesome work! <br>
-  My layout was inspired by <a href="https://github.com/EmeraldEntities">Joseph Wang</a>! 
+  This layout was inspired by <a href="https://github.com/EmeraldEntities">Joseph Wang</a>! 
 </sub>
