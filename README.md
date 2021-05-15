@@ -48,14 +48,21 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
       <a href="https://github.com/albertlai431">
         <img src="https://avatars.githubusercontent.com/u/44041989?v=4" width="100px;" alt=""/>
         <br />
-        <sub>albertlai431</sub>
+        <sub>Albert Lai</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RyanLin11">
         <img src="https://avatars.githubusercontent.com/u/65736601?v=4" width="100px;" alt=""/>
         <br />
-        <sub>RyanLin11</sub>
+        <sub>Ryan Lin</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EmeraldEntities">
+        <img src="https://avatars.githubusercontent.com/u/44278515?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>Joseph Wang</sub>
       </a>
     </td>
   </tr>
