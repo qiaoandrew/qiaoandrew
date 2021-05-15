@@ -12,13 +12,13 @@ My goal is to create technologies to aid and inspire other individuals within my
 
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. There will also be some cool Flutter projects!
 
-## 😄 My Current Focuses!
+## 😄 My Current Focuses
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/)! 📱
 - Studying Unity to create fun games! 🎮
 - Finding new leadership opportunities to inspire fellow students! 🎓
 - Doing my absolute best at school and wherever else I go! 👍
 
-## 🎬 Games and Simulations!
+## 🎬 Games and Simulations
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&theme=radical"/>
@@ -28,14 +28,14 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
   </a>
 </p> 
 
-## 📱 Flutter Applications!
+## 📱 Flutter Applications
 <p>
   <a href="https://github.com/qiaoandrew/ClubsQuiz">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ClubsQuiz&theme=radical"/>
   </a>
 </p> <br><br><br><br><br><br><br>
 
-## 🏆 Fun Facts About Me!
+## 🏆 Fun Facts About Me
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
 - Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
