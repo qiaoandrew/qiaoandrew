@@ -33,7 +33,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
   <a href="https://github.com/qiaoandrew/ClubsQuiz">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ClubsQuiz&theme=radical"/>
   </a>
-</p> <br><br><br><br><br><br><br>
+</p> <br><br><br><br><br><br>
 
 ## 🏆 Fun Facts About Me!
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
