@@ -21,7 +21,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 ## 🎬 Games and Simulations!
 <p>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&bg_color=C9BCDA&text_color=D9C4DE&title_color=AFC3E0&icon_color=B2C9E9"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&bg_color=OC1324&text_color=C9BCDA&title_color=AFC3E0&icon_color=B2C9E9"/>
   </a>
   <a href="https://github.com/qiaoandrew/InventoryWidget">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=radical"/>
