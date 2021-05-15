@@ -41,33 +41,6 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
 - Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
 
-## 😎 Some Super Cool People!
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/albertlai431">
-        <img src="https://avatars.githubusercontent.com/u/44041989?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>Albert Lai</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RyanLin11">
-        <img src="https://avatars.githubusercontent.com/u/65736601?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>Ryan Lin</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EmeraldEntities">
-        <img src="https://avatars.githubusercontent.com/u/44278515?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>Joseph Wang</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <sub>
   These widgets were created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for your awesome work! <br>
   This layout was inspired by <a href="https://github.com/EmeraldEntities">Joseph Wang</a>! 
