@@ -26,9 +26,6 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
   <a href="https://github.com/qiaoandrew/InventoryWidget">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=InventoryWidget&theme=radical"/>
   </a>
-  <a href="https://github.com/qiaoandrew/ClubsQuiz">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ClubsQuiz&theme=radical"/>
-  </a>
 </p>
 
 ## 🏆 Fun Facts About Me!
