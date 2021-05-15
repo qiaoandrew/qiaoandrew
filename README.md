@@ -16,7 +16,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
 - Studying Unity to create fun games 🎮!
 - Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
-- Doing my absolute best at school and wherever I go 👍!
+- Doing my absolute best at school and wherever else I go 👍!
 
 ## 🎬 Games and Simulations!
 <p>
