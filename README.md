@@ -35,7 +35,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
   </a>
 </p> <br><br><br><br><br><br><br>
 
-## 🏆 Fun Facts About Me!
+## 😎 Fun Facts About Me!
 - In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
 - Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
 - During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
