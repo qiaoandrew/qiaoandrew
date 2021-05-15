@@ -13,10 +13,10 @@ My goal is to create technologies to aid and inspire other individuals within my
 I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. There will also be some cool Flutter projects!
 
 ## 😄 My Current Focuses!
-- Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/) 📱!
-- Studying Unity to create fun games 🎮!
-- Finding new leadership opportunities to inspire fellow students 🧑‍🎓!
-- Doing my absolute best at school and wherever else I go 👍!
+- 📱 Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/)!
+- 🎮 Studying Unity to create fun games!
+- 🧑‍🎓 Finding new leadership opportunities to inspire fellow students!
+- 👍 Doing my absolute best at school and wherever else I go!
 
 ## 🎬 Games and Simulations!
 <p>
