@@ -34,3 +34,7 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ClubsQuiz&bg_color=0C1324&text_color=B2C9E9&title_color=B1CDEC&icon_color=6A8CC2"/>
   </a>
 </p> <br><br><br><br><br><br><br>
+
+<sub>
+  Widgets created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>.
+</sub>
