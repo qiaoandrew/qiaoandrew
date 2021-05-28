@@ -34,14 +34,3 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ClubsQuiz&bg_color=0C1324&text_color=B2C9E9&title_color=B1CDEC&icon_color=6A8CC2"/>
   </a>
 </p> <br><br><br><br><br><br><br>
-
-## 😎 Fun Facts About Me!
-- In the past, I have played many sports at a competitive level such as tennis 🎾, hockey 🏒, soccer ⚽️, and volleyball 🏐!
-- Teaching is another one of my passions, and I work as a tennis coach over the summer ☀️!
-- During my free time, I LOVE listening to music 🎧 and watching TV shows 📺!
-- Currently, my favorite song 🎵 is "Life Goes On" by BTS, an inspiring song about overcoming and staying positive during tough situations!
-
-<sub>
-  These widgets were created by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>. Thanks for your awesome work! <br>
-  This layout was inspired by <a href="https://github.com/EmeraldEntities">Joseph Wang</a>! 
-</sub>
