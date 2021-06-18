@@ -21,11 +21,11 @@ I specialize in Java, and am also fairly skilled in Python! Here, I will be peri
 
 ## 🎬 Games and Simulations!
 <p>
-  <a href="https://github.com/qiaoandrew/ParadiseTowerDefense">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ParadiseTowerDefense&bg_color=0C1324&text_color=B2C9E9&title_color=B1CDEC&icon_color=6A8CC2"/>
-  </a>
   <a href="https://github.com/qiaoandrew/TheFourKingdoms">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=TheFourKingdoms&bg_color=0C1324&text_color=B2C9E9&title_color=B1CDEC&icon_color=6A8CC2"/>
+  </a>
+  <a href="https://github.com/qiaoandrew/ParadiseTowerDefense">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qiaoandrew&repo=ParadiseTowerDefense&bg_color=0C1324&text_color=B2C9E9&title_color=B1CDEC&icon_color=6A8CC2"/>
   </a>
   <br><br>
   <a href="https://github.com/qiaoandrew/InventoryWidget">
