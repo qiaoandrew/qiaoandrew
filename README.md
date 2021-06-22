@@ -10,11 +10,10 @@ Hi! My name is Andrew, and I'm a Grade 11 student at Pierre Elliott Trudeau HS �
 
 My goal is to create technologies to aid and inspire other individuals within my communities, while at the same time, making sure that I, and the people around me, have fun!
 
-I specialize in Java, and am also fairly skilled in Python! Here, I will be periodically posting various school and personal projects, including simulations and games. There will also be some cool Flutter projects!
+Here, I will be periodically posting various school and personal projects, including simulations, games, and cool Flutter applications!
 
 ## 😄 My Current Focuses!
 - Expanding my knowledge on Flutter & Dart, utilizing them to enhance my [school's app](https://www.trudeausac.com/app/)! 📱
-- Making a new game! (Stay tuned) 🎮
 - Learning the skills necessary to become a proficient full-stack developer! 🌐
 - Finding new leadership opportunities to inspire fellow students! 🎓
 - Doing my absolute best at school and wherever else I go! 👍
