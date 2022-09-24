@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m Andrew, a first-year CS student at the University of Waterloo!  My passion for Computer Science stems from my love for building. Whether that be developing my high school's mobile app or websites for organizations I have been a part of, I enjoy using my technical skills in a real-world scenario to benefit my community. In my spare time, I like to play tennis, solve Leetcode problems, and go to the gym.
+I’m Andrew, a first-year CS student at the University of Waterloo!  My passion for Computer Science stems from my love for building. Whether that be developing my high school's mobile app or websites for organizations I have been a part of, I enjoy using my technical skills in a real-world scenario to benefit my community. In my spare time, I like to play tennis, solve Leetcode problems, go to the gym, and dance.
 
 Visit my [personal website](https://www.andrewqiao.com) to learn more about me!
 
