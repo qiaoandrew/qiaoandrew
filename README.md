@@ -5,7 +5,7 @@ I'm Andrew, a CS student @ UWaterloo. I'm passionate about building inclusive an
 ### Some Stuff I've Done || Am Doing 🐣
 * **Portfolio Analytics Developer Intern @ TD 📊**: Building financial data pipelines to automate trade report generation, asset and liability analysis, and distributed computing tasks
 * **Research Assistant @ U of T 🤖**: Integrated the GPT-3 and GPT-3.5 AI models into a research study with 500+ participants as part of a university-partnered collaboration with OpenAI
-* * **Investrack 📈**: [Equity analysis tool](https://www.investrack.app) providing in-depth analytics such as historical price data, key financial metrics, and company news
+* **Investrack 📈**: [Equity analysis tool](https://www.investrack.app) providing in-depth analytics such as historical price data, key financial metrics, and company news
 * **Pethsapp 📱**: Revamped my former high school's mobile app during my senior year to help 1200+ students, staff, and parents stay up-to-date on school info, available on the [App Store](https://apps.apple.com/ca/app/pethsapp/id1544635100) and [Google Play](https://play.google.com/store/apps/details?id=com.trudeausac.pethsapp&hl=en_CA&gl=US)
 * **REMAX Metropolis 🏠**: Developing a [cross-platform real estate application](https://preconstruction.app) to help 240+ REMAX agents and hundreds of their clientele research $1B+ worth of properties in the GTA
 
