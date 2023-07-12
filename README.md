@@ -2,7 +2,7 @@
 
 I'm Andrew, a CS student @ UWaterloo. I'm passionate about building inclusive and innovative applications with the goal of providing value to society.
 
-### Some Stuff I've Done || Am Doing 🐣
+### My Work 💼
 * **Portfolio Analytics Developer Intern @ TD 📊**: Building financial data pipelines to automate trade report generation, asset and liability analysis, and distributed computing tasks
 * **Research Assistant @ U of T 🤖**: Integrated the GPT-3 and GPT-3.5 AI models into a research study with 500+ participants as part of a university-partnered collaboration with OpenAI
 * **Investrack 📈**: [Equity analysis tool](https://www.investrack.app) providing in-depth analytics such as historical price data, key financial metrics, and company news
