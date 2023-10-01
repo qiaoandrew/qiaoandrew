@@ -2,14 +2,14 @@
 
 I'm Andrew, a CS student @ UWaterloo. I'm passionate about building inclusive and innovative applications with the goal of providing value to society.
 
-### Fun Stuff I've Done
+### Fun Stuff I've Done 😎
 * **Software Developer Intern @ TD 📊**: Engineered financial applications to automate trade report generation, asset and liability analysis, and distributed computing tasks
 * **Research Engineer Intern @ U of T 🤖**: Integrated AI models into a research study with 500+ participants as part of a university-partnered collaboration with OpenAI
 * **Co-Founder @ Stealth Startup 🏥**: Reimagining the way healthcare providers interact with their patients through an innovative data-driven application
 * **VP of Web Development @ UWaterloo Data Science Club 🧑🏻‍💻**: Leading a team of developers in enhancing the club website, leading to 15k+ Google Search impressions and connections with 5+ sponsors
 * **Pethsapp 📱**: Revamped my former high school's mobile app during my senior year to help 1200+ students, staff, and parents stay up-to-date on school info, available on the [App Store](https://apps.apple.com/ca/app/pethsapp/id1544635100) and [Google Play](https://play.google.com/store/apps/details?id=com.trudeausac.pethsapp&hl=en_CA&gl=US)
 
-### My Toolbox 🧑🏻‍💻
+### My Toolbox 🛠️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
