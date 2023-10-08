@@ -3,7 +3,8 @@
 I'm Andrew, a CS student @ UWaterloo. I'm passionate about building inclusive and innovative applications with the goal of providing value to society.
 
 ### Fun Stuff I've Done 😎
-* **Software Developer Intern @ TD 📊**: Engineered financial applications to automate trade report generation, asset and liability analysis, and distributed computing tasks
+* **Software Developer Intern @ UHN 🏥**: Integrating fine-tuned AI models into full-stack solutions, driving AI adoption in Canadian healthcare
+* **Software Developer Intern @ TD 🏦**: Engineered financial applications to automate trade report generation, asset and liability analysis, and distributed computing tasks
 * **Research Engineer Intern @ U of T 🤖**: Integrated AI models into a research study with 500+ participants as part of a university-partnered collaboration with OpenAI
 * **Co-Founder @ Stealth Startup 🏥**: Reimagining the way healthcare providers interact with their patients through an innovative data-driven application
 * **VP of Web Development @ UWaterloo Data Science Club 🧑🏻‍💻**: Leading a team of developers in enhancing the club website, leading to 15k+ Google Search impressions and connections with 5+ sponsors
