@@ -3,7 +3,7 @@
 I'm Andrew, a CS student @ UWaterloo. For me, programming is all about building and fixing. I want to build easy-to-use products that address meaningful pain points that the people around me experience.
 
 ### Some Fun Stuff I've Done 😎
-* **Software Developer Intern @ Snowflake**: Learning lots and having lots of fun building Snowflake and Streamlit!
+* **Software Engineer Intern @ Snowflake**: Learning lots and having lots of fun building Snowflake and Streamlit!
 * **Software Developer Intern @ IBM**: Built generative AI tools for some of Canada's largest insurance organizations.
 * **Software Developer Intern @ UHN**: Evaluated GPT-4V's effectiveness in diagnosing health conditions, helping researchers determine AI's suitability for clinical care and education.
 * **Software Developer Intern @ TD**: Engineered financial systems to automate trade report generation, perform asset and liability analysis, and facilitate model development.
