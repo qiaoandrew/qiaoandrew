@@ -1,15 +1,11 @@
 ## Hi there! 👋
 
-I'm Andrew, a CS student @ UWaterloo. For me, programming is all about building and fixing. I want to build easy-to-use products that address meaningful pain points that the people around me experience.
+I'm Andrew, a Computer Science student at UWaterloo and Software Engineer Intern at Snowflake. For me, engineering is all about building and fixing. The problem I'm currently invested in is how large organizations can better align product, design, and engineering teams.
 
 ### Some Fun Stuff I've Done 😎
-* **Software Engineer Intern @ Snowflake**: Learning lots and having lots of fun building Snowflake and Streamlit!
-* **Software Developer Intern @ IBM**: Built generative AI tools for some of Canada's largest insurance organizations.
-* **Software Developer Intern @ UHN**: Evaluated GPT-4V's effectiveness in diagnosing health conditions, helping researchers determine AI's suitability for clinical care and education.
-* **Software Developer Intern @ TD**: Engineered financial systems to automate trade report generation, perform asset and liability analysis, and facilitate model development.
-* **Research Engineer Intern @ U of T**: Developed an AI platform for a research study with 500+ participants as part of a university-partnered collaboration with OpenAI.
-* **VP of Web Development @ UWaterloo Data Science Club**: Led a team of developers in enhancing and maintaining the [club website](https://www.uwdatascience.ca/).
-* **Pethsapp**: Revamped my former high school's mobile app to help 1200+ students, staff, and parents stay up-to-date on school info, available on the [App Store](https://apps.apple.com/ca/app/pethsapp/id1544635100) and [Google Play](https://play.google.com/store/apps/details?id=com.trudeausac.pethsapp&hl=en_CA&gl=US). Peaked in the Top 15 in the Apple App Store.
+* **Software Engineer Intern @ Snowflake**: Engineering Snowflake's component library and E2E testing framework
+* **Software Developer Intern @ IBM**: Built generative AI tools for some of Canada's largest insurance organizations
+* **Software Developer Intern @ TD**: Developed analytic tools for financial analysis
 
 ### My Favourite Tools 🛠️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
