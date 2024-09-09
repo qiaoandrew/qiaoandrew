@@ -3,7 +3,7 @@
 I'm Andrew, a Computer Science student at UWaterloo and Software Engineer Intern at Snowflake. For me, engineering is all about building and fixing. The problem I'm currently invested in is how large organizations can better align product, design, and engineering teams.
 
 ### Some Fun Stuff I've Done 😎
-* **Software Engineer Intern @ Snowflake**: Engineering Snowflake's component library and E2E testing framework
+* **Software Engineer Intern @ Snowflake**: Engineered Snowflake's component library and E2E testing framework
 * **Software Developer Intern @ IBM**: Built generative AI tools for some of Canada's largest insurance organizations
 * **Software Developer Intern @ TD**: Developed analytic tools for financial analysis
 
